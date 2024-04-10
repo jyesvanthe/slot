@@ -135,7 +135,7 @@ REG NO: 212223110018
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2024-03-15 024944.png>)
+![Uploading Screenshot 2024-03-15 024944.png…]()
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
